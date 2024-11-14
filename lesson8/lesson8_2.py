@@ -5,6 +5,7 @@ def get_names(nums:int=2)->list[str]:
     names:list[str] = names_str.split(sep='\n')
     names = random.choices(names,k=nums)
     return names
+
 def generate_students(names:list[str]) -> list[dict]:
     students:list[dict] = []
     for name in names:
