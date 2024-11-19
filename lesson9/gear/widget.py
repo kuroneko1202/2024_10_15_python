@@ -34,12 +34,3 @@ def generate_bmi(names:list[str])->list[dict]:
         }
         students.append(student)
     return students
-
-
-nums = int(input('請輸入人數:'))
-names:list[str] = get_name(nums=nums)
-students:list[dict] = generate_bmi(names=names)
-for student in students:
-    for key,value in student.items():
-        print(f'{key}:{value}')
-    print("==================")
