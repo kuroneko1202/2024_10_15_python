@@ -1,4 +1,4 @@
-from gear.widget import get_name,generate_bmi
+from gear.widget import get_name,generate_bmi 
 if __name__ == '__main__': #表示說這是主程式 
     nums = int(input('請輸入人數:'))
     names:list[str] = get_name(nums=nums)
@@ -6,4 +6,4 @@ if __name__ == '__main__': #表示說這是主程式
     for student in students:
         for key,value in student.items():
             print(f'{key}:{value}')
-        print("==================")
+        print("==================") 
