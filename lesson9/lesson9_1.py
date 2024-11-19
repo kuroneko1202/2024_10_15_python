@@ -6,4 +6,4 @@ if __name__ == '__main__': #表示說這是主程式
     for student in students:
         for key,value in student.items():
             print(f'{key}:{value}')
-        print("==================") 
+            print("==================") 
