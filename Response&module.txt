@@ -1,0 +1,10 @@
+### Response實體 module裡面可以放3種東西
+Response:
+1.property 儲存資料
+2.attribute 儲存資料
+3.method 功能
+
+module:
+1.function
+2.class
+3.常數
