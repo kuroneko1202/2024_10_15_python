@@ -1,5 +1,7 @@
 檢查程式是否有match(符合規則)
 
 https://pythex.org/
-例如:\d{4}-\d{3}-\d{3}
+
+^是起頭 $是結尾
+例如:^\d{4}-\d{3}-\d{3}$  
      xxxx-xxx-xxx
