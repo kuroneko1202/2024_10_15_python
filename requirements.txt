@@ -1,5 +1,7 @@
 requests==2.32.3
 matplotlib
+numpy
+pandas
 
 
 #安裝 matplotlib 指令pip install -r requirements.txt
