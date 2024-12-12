@@ -3,5 +3,6 @@ matplotlib
 numpy
 pandas
 openpyxl
+jinja2
 
 #安裝 matplotlib 指令pip install -r requirements.txt
