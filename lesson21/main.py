@@ -3,5 +3,9 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route("/")
-def hello_world():
-    return "<h1>Hello, World!</h1>"
+def Index():
+    return "<h1>Hello, 你好!</h1>" 
+
+@app.route("/hello")
+def hello():
+    return "Hello, World!!!!" 
