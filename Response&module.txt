@@ -8,3 +8,9 @@ module:
 1.function
 2.class
 3.常數
+
+建立簡單網頁
+Flask
+
+在國外網站設立網頁
+https://dashboard.render.com/
