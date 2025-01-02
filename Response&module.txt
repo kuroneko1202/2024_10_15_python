@@ -20,3 +20,5 @@ https://developers.line.biz/zh-hant/
 https://manager.line.biz/account
 國外架站
 https://render.com/
+免費AI module
+https://aistudio.google.com/prompts/new_chat
