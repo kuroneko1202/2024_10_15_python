@@ -14,3 +14,9 @@ Flask
 
 在國外網站設立網頁
 https://dashboard.render.com/
+建立LINE機器人
+https://developers.line.biz/zh-hant/
+官網設定MSG_API
+https://manager.line.biz/account
+國外架站
+https://render.com/
